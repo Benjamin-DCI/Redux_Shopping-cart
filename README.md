@@ -1,4 +1,4 @@
-## Instructions for students:
+## Instructions:
 
 ### Create a Shopping Cart
 
@@ -37,9 +37,4 @@ Make sure to use components _Examples of components: ProductList, ProdListItem, 
 -   Add more product items
 -   Add images to your items
 
-### Rules
 
--   This is an individual assignment.
--   Deadline: 2 days
--   Use **Git properly**
--   Feel free to document your code with comments.
